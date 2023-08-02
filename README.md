@@ -1,3 +1,8 @@
+# Install Cert-Manager
+
+"""
+kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/v1.12.0/cert-manager.yaml
+
 # mongo_k8s_project
 
 mongo express plus mongodb in k8s cluster
